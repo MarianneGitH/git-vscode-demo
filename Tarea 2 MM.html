@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarea 2</title>
+</head>
+
+<body>
+
+<header>
+    <img src="pictures/Imagen.png" alt="Redes Sociales" width="200">
+    <nav>
+    <a href="https://es.wikipedia.org/wiki/HTML" target="_blank">HTMl</a>
+    <a href="https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada" target="_blank">CSS</a>
+    <a href="https://www.javascript.com/" target="_blank">JavaScript</a>
+    </nav>
+</header>
+
+<main>
+
+<h2>Tarea 2 </h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Voluptatibus qui eum eius et incidunt quasi, porro ea.<span style="color: red;" >Sit cupiditate voluptas itaque id deserunt maxime, </span> <br> repudiandae recusandae, architecto, repellendus labore eaque?</p>
+
+<h3>Lista de algunas redes sociales</h3>
+<ul>
+    <li> <a href="https://facebook.com/" target="_blank">Facebook</a> </li>
+    <li> <a href="https://instagram.com/" target="_blank">Instagram</a></li>
+    <li> <a href="https://twitter.com/" target="_blank">Twitter</a></li>
+    <li> <a href="https://cr.linkedin.com/" target="_blank">linkedin</a></li>
+</ul>
+
+</main>
+<footer>
+<p><small>Hecho por Marianne Molina</small></p>
+</footer>
+</body>
+</html>
