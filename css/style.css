@@ -1,0 +1,69 @@
+/* Estilos de Globales */
+body { text-align:center;
+max-width: 700px; }
+/* Fin de estilos globlales */
+
+/* Estilos de Header */
+header {
+background-color: skyblue; 
+padding: 10px;
+}
+img  { width: 200px }
+
+a {
+color: rgb(255, 255, 255); 
+font-family: Verdana, Geneva, Tahoma, sans-serif; 
+font-size: 1rem;
+}
+/* Fin de estilos Header */
+
+/* Estilos de body */
+main { background-color: hsl(197, 9%, 85%);
+margin: 0px 150px 0px 150px;
+padding: 10px;
+}
+h2 { color:hsl(240, 29%, 34%);font-size: 2rem; }
+h3 { color:hsl(240, 29%, 34%);font-size: 1.5rem; padding: 20px;}
+p  { 
+font-family: Arial Narrow, sans-serif;
+font-size: medium;
+margin: 10px 75px 10px 75px;
+}
+span { 
+color: red 
+}
+/* Fin de estilos body */
+
+/* Estilos  de lista de Redes Sociales */
+ul { 
+list-style-type: none;
+border: 2px solid blueviolet;
+padding: 20px;
+border-radius: 50%;
+background-color: skyblue;
+width: 50%;
+margin: auto;
+}
+
+ul li:first-child, ul li:first-child a { 
+color: hsl(219, 59%, 36%); 
+}
+ul li:nth-child(0n+2), ul li:nth-child(0n+2) a { 
+color: rgb(25, 22, 201); 
+}
+ul li:nth-child(2n+1), ul li:nth-child(2n+1) a { 
+color: #2e6e88; 
+}
+ul li:last-child, ul li:last-child a { 
+color:rgba(36, 192, 36, 0.445); 
+}
+
+/* Fin de estilos de lista de Redes Sociales */
+
+/* Estilos de Footer */
+footer { 
+background-color:skyblue;
+padding: 10px;
+}
+/* Fin de estilos de Footer */
+
